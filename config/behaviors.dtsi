@@ -90,7 +90,7 @@
             bindings = <&mo NUMB>, <&mo FUNC>;
         };
 
-        nav_mou: num_function {
+        nav_mou: navi_mous {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <250>;
