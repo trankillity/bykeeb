@@ -65,15 +65,6 @@
             hold-trigger-key-positions = <KEYS_L>;
         };
 
-        ltm: layer_tap_mouse {
-            compatible = "zmk,behavior-hold-tap";
-            #binding-cells = <2>;
-            flavor = "tap-preferred";
-            tapping-term-ms = <350>;
-            bindings = <&mo>, <&kp>;
-            hold-while-undecided;
-        };
-
         skq: sticky_key_quick_release {
             compatible = "zmk,behavior-sticky-key";
             #binding-cells = <1>;
