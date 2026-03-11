@@ -90,6 +90,13 @@
             bindings = <&mo NUMB>, <&mo FUNC>;
         };
 
+        nav_mou: num_function {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <250>;
+            bindings = <&mo NAVI>, <&mo MOUS>;
+        };
+
         sft_caps: shift_capsword {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
