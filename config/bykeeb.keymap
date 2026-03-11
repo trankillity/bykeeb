@@ -42,7 +42,7 @@
             &kp Q         &kp W         &kp F         &kp P         &kp B                    &kp J         &kp L         &kp U         &kp Y         &kp SQT
             &hml LGUI A   &hml LALT R   &hml LCTL S   &hml LSHIFT T &hml G                   &hmr M        &hmr RSHIFT N &hmr RCTL E   &hmr RALT I   &hmr RGUI O
             &kp Z         &kp X         &kp C         &kp D         &kp V                    &kp K         &kp H         &mm_csemi     &mm_dcoln     &kp FSLH
-                                        &kp BSPC      &sft_caps     &num_fun                 &nav_mou      &kp SPACE     &none
+                                        &kp BSPC      &sft_caps     &num_fun                 &nav_mou      &kp SPACE     &kp ENTER
         >;
         };
 
@@ -51,7 +51,7 @@
             &gresc        &kp HOME      &kp UP        &kp END       &kp PG_UP                &kp K_APP     &swap_next    &swap_prev    &none         &blconfirm
             &kp LC(A)     &kp LEFT      &kp DOWN      &kp RIGHT     &kp PG_DN                &kp C_VOL_UP  &kp RSHIFT    &kp RCTRL     &kp RALT      &kp RGUI
             &kp LC(Z)     &kp LC(X)     &kp LC(C)     &kp LC(V)     &kp LC(Y)                &kp C_VOL_DN  &kp C_PREV    &kp C_PP      &kp C_NEXT    &kp C_STOP
-                                        &kp DEL       &trans        &trans                   &trans        &trans        &trans
+                                        &kp DEL       &kp TAB       &trans                   &trans        &trans        &trans
             >;
         };
 
