@@ -50,7 +50,7 @@
             require-prior-idle-ms = <300>;
             /*retro-tap;*/
             bindings = <&kp>, <&kp>;
-            hold-trigger-key-positions = <KEYS_R>;
+            hold-trigger-key-positions = <KEYS_R THUMBS>;
         };
 
         hmr: homerow_modsr {
@@ -62,7 +62,7 @@
             require-prior-idle-ms = <300>;
             /*retro-tap;*/
             bindings = <&kp>, <&kp>;
-            hold-trigger-key-positions = <KEYS_L>;
+            hold-trigger-key-positions = <KEYS_L THUMBS>;
         };
 
         skq: sticky_key_quick_release {
