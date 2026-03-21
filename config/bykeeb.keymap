@@ -42,7 +42,7 @@
             &kp Q         &kp W         &kp F         &kp P         &kp B                    &kp J         &kp L         &kp U         &kp Y         &kp SQT
             &hml LGUI A   &hml LALT R   &hml LCTL S   &hml LSHIFT T &kp G                    &kp M         &hmr RSHIFT N &hmr RCTL E   &hmr RALT I   &hmr RGUI O
             &kp Z         &kp X         &kp C         &kp D         &kp V                    &kp K         &kp H         &mm_csemi     &mm_dcoln     &kp FSLH
-                                        &kp BSPC      &sft_caps     &num_fun                 &nav_mou      &kp SPACE     &kp ENTER
+                                        &kp BSPC      &skq          &num_fun                 &nav_mou      &kp SPACE     &kp ENTER
         >;
         };
 
